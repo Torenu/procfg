@@ -1,4 +1,4 @@
-One and only best cfg setup files :D
+One and only best CS:GO cfg setup files :D
 ===
 Installation: paste into Steam\userdata\{userid}\730\local\cfg
 
