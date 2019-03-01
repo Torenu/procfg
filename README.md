@@ -22,9 +22,14 @@ mouse4, mouse5 - molly, hegrenade (not very good bind, better change it to keybo
 
 x - bomb drop (changes to knife if you dont have bomb)
 
+h - callvote (to take timeouts asap)
+
 arrow keys - buy nades (except decoy)
 
 Other keys are mostly default or are used for fun like chat spamming binds
 
 Volvo plz return bomb finding feature with gameinstructor :(
 
+**Crosshair**
+---
+I really love this one <3
