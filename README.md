@@ -11,11 +11,17 @@ interp.cfg can help with connection issues
 **binds**
 ---
 mouse scroll - jump
+
 c - lookatweapon
+
 alt - voice chat
+
 f, q - use flashbang or smoke (gotocheckpoint or save checkpoint on bhop.cfg)
+
 mouse4, mouse5 - molly, hegrenade (not very good bind, better change it to keyboard keys)
+
 x - bomb drop (changes to knife if you dont have bomb)
+
 arrow keys - buy nades (except decoy)
 
 Other keys are mostly default or are used for fun like chat spamming binds
