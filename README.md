@@ -6,7 +6,7 @@ Use exec {cfg_name} in game console to install any config file
 
 gameplay.cfg and bhop.cfg are used separately to play regular match or bhop/kz server
 
-interp.cfg can help with connection issues
+interp.cfg can help with connection issues (you can also try to change rate value)
 
 **Binds**
 ---
