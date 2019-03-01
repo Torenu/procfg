@@ -10,7 +10,7 @@ interp.cfg can help with connection issues (you can also try to change rate valu
 
 **Binds**
 ---
-mouse scroll - jump
+mouse scroll - jump (learn to bhop guys)
 
 c - lookatweapon
 
