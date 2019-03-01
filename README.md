@@ -8,4 +8,6 @@ gameplay.cfg and bhop.cfg are used separately to play regular match or bhop/kz s
 
 interp.cfg can help with connection issues
 
-##binds
+**binds**
+---
+
