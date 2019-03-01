@@ -18,17 +18,13 @@ alt - voice chat
 
 f, q - use flashbang or smoke (gotocheckpoint or save checkpoint on bhop.cfg)
 
-mouse4, mouse5 - molly, hegrenade (not very good bind, better change it to keyboard keys)
+z, x - hegrenade, molly
 
 x - bomb drop (changes to knife if you dont have bomb)
 
 h - callvote (to take timeouts asap)
 
 arrow keys - buy nades (except decoy)
-
-Other keys are mostly default or are used for fun like chat spamming binds
-
-Volvo plz return bomb finding feature with gameinstructor :(
 
 **Crosshair**
 ---
@@ -38,3 +34,4 @@ Try to create your best one with crosshair generator map
 
 _**GLHF**_
 ===
+Volvo plz return bomb finding feature with gameinstructor :(
