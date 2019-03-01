@@ -33,7 +33,7 @@ Volvo plz return bomb finding feature with gameinstructor :(
 **Crosshair**
 ---
 I really love this one <3
-
+Try to create your best one with crosshair generator map
 
 _**GLHF**_
 ===
