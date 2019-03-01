@@ -1,3 +1,2 @@
-# procfg
-My Counter-Strike:Global Offensive config file
----
+One and only best cfg file :D
+===
