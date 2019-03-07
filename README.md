@@ -1,6 +1,6 @@
 One and only best CS:GO cfg setup files :D
 ===
-Installation: paste into Steam\userdata\{userid}\730\local\cfg
+Installation: paste into Steam\userdata\\{userid}\730\local\cfg
 
 Use exec {cfg_name} in game console to install any config file
 
