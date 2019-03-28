@@ -8,6 +8,8 @@ gameplay.cfg and bhop.cfg are used separately to play regular match or bhop/kz s
 
 interp.cfg can help with connection issues (you can also try to change rate value)
 
+smoke.cfg to train smokes
+
 **Binds**
 ---
 mouse scroll - jump (learn to bhop guys)
